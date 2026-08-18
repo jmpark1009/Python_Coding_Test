@@ -11,3 +11,17 @@ def solution(nums):
     unique = len(set(nums))
     answer = min(n_half, unique)
     return answer
+
+# for과 if를 사용한 코드
+def solution(nums):
+    n_half = len(nums) // 2
+    unique_list = []
+    for x in nums:
+        if x not in unique_list:
+            unique_list.append(x)
+
+    unique_count = len(unique_list)
+    if unique_count > n_half:
+        return n_half
+    else:
+        return unique_count
