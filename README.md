@@ -77,7 +77,7 @@ Python_Coding_Test/
 | 2026-08-19 | programmers | 스택큐 | 올바른 괄호 | [풀이](programmers/스택큐/올바른_괄호.py) |
 | 2026-08-20 | programmers | 스택큐 | 프로세스 | [풀이](programmers/스택큐/프로세스.py) |
 | 2026-08-20 | programmers | 스택큐 | 다리를 지나는 트럭 | [풀이](programmers/스택큐/다리를_지나는_트럭.py) |
-| 2026-08-20 | programmers | 스택큐 | 주식가격 | [풀이](programmers/스택큐/주식가격.py) |
+| 2026-08-21 | programmers | 스택큐 | 주식가격 | [풀이](programmers/스택큐/주식가격.py) |
 | | | | | |
 
 ## 커밋 규칙
